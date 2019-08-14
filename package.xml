@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>custom_sales_grid</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This Grid will provide basic information of order in front to contact with customer.</summary>
+    <description>This Grid will provide basic information of order in front to contact with customer.</description>
+    <notes>This Grid will provide basic information of order in front to contact with customer.</notes>
+    <authors><author><name>Sarfaraz</name><user>admin</user><email>sarfaraz.leghari@hotmail.com</email></author></authors>
+    <date>2015-05-23</date>
+    <time>06:51:38</time>
+    <contents><target name="magelocal"><dir name="Mage"><dir name="Adminhtml"><dir name="Block"><dir name="Sales"><dir name="Order"><file name="Grid.php" hash="283f4eb436596ae3dd3d92af62b47e3f"/></dir></dir></dir></dir></dir><dir name="Varien"><dir name="Data"><dir name="Collection"><file name="Db.php" hash="da23e7e92147bff5278a756579fd0699"/></dir></dir></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
