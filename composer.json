@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/custom_sales_grid",
+    "name": "OpenMageModuleFostering\/custom_sales_grid",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "This Grid will provide basic information of order in front to contact with customer.",
     "authors": [
-    {
-        "name": "Sarfaraz",
-        "email": "sarfaraz.leghari@hotmail.com"
-    }
-],
+        {
+            "name": "Sarfaraz",
+            "email": "sarfaraz.leghari@hotmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
